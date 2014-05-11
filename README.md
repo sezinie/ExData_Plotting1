@@ -1,3 +1,36 @@
+## This is new my own introduction 
+
+
+-uploaded list for assignment1 -
+plot1.png
+plot2.png
+plot3.png
+plot4.png
+plot1.R
+plot2.R
+plot3.R
+plot4.R
+
+### Plot 1
+![plot1](plot1.png) 
+
+### Plot 2
+![plot1](plot2.png) 
+
+### Plot 3
+![plot1](plot3.png) 
+
+### Plot 4
+![plot1](plot4.png) 
+
+
+
+
+=====================================================
+##This is original introduction
+
+
+
 ## Introduction
 
 This assignment uses data from
@@ -95,7 +128,7 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+![plot of chunk unnamed-chunk-](plot1.png) 
 
 
 ### Plot 2
