@@ -1,15 +1,17 @@
-## This is new my own introduction 
+# This is new my own introduction 
 
 
--uploaded list for assignment1 -
-plot1.png
-plot2.png
-plot3.png
-plot4.png
-plot1.R
-plot2.R
-plot3.R
-plot4.R
+-uploaded list for assignment1 -  
+plot1.png  
+plot2.png  
+plot3.png  
+plot4.png  
+plot1.R  
+plot2.R  
+plot3.R  
+plot4.R  
+
+## My result 
 
 ### Plot 1
 ![plot1](plot1.png) 
@@ -124,6 +126,7 @@ date. There should be four PNG files and four R code files.
 
 The four plots that you will need to construct are shown below. 
 
+## Example Result
 
 ### Plot 1
 
